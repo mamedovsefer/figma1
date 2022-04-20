@@ -1,0 +1,235 @@
+body{
+    font-family: Roboto Slab;
+  }
+  @media  (max-width: 1400px){
+  .sekilbir{
+    position: absolute;
+    width: 314px;
+    height: 315px;
+    left: 976px;
+    top: 226px;
+  }
+  .sekiliki{
+    position: absolute;
+    width: 232px;
+    height: 203px;
+    left: 124px;
+    top: 670px;
+  }
+  h1{
+  position: absolute;
+  width: 365px;
+  height: 93px;
+  left: 124px;
+  top: 91px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 55px;
+  }
+  .esas{
+  position: absolute;
+  width: 662px;
+  height: 374px;
+  left: 124px;
+  top: 202px;
+  }
+  .iki{
+    position: absolute;
+  width: 150px;
+  height: 39px;
+  left: 488px;
+  top: 780px;
+  }
+  .uc{
+  position: absolute;
+  width: 150px;
+  height: 39px;
+  left: 733px;
+  top: 780px;
+  }
+  .dord{
+    position: absolute;
+  width: 150px;
+  height: 39px;
+  left: 976px;
+  top: 780px;
+  }
+  .hiki{
+    position: absolute;
+    width: 150px;
+    height: 39px;
+    left: 488px;
+    top: 740px;
+  }
+  .huc{
+    position: absolute;
+    width: 150px;
+    height: 39px;
+    left: 733px;
+    top: 740px;
+  }
+  .hdord{
+    position: absolute;
+    width: 150px;
+    height: 39px;
+    left: 976px;
+    top: 740px;
+  }
+  }
+  @media (max-width:830px){
+    .sekilbir{
+      position: absolute;
+  width: 181.86px;
+  height: 182.44px;
+  left: 565.45px;
+  top: 134.19px;
+    }
+    .sekiliki{
+      width: 0px;
+    }
+  h1{
+  position: absolute;
+  width: 211.4px;
+  height: 53.86px;
+  left: 72px;
+  top: 56px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 101.38%;}
+  .esas{
+  position: absolute;
+  width: 383.41px;
+  height: 216.61px;
+  left: 72px;
+  top: 120.29px;
+  font-size: 14px;
+  }
+  .iki{
+  position: absolute;
+  width: 86.88px;
+  height: 22.59px;
+  left: 72px;
+  top: 430.17px;
+  font-size: 11px;
+  }
+  .uc{
+  position: absolute;
+  width: 108px;
+  height: 23px;
+  left: 214.1px;
+  top: 429.95px;
+  font-size: 11px;
+  }
+  .dord{
+  position: absolute;
+  width: 86.88px;
+  height: 22.59px;
+  left: 354.63px;
+  top: 430.17px;
+  font-size: 11px;
+  }
+  
+  .hiki{
+  position: absolute;
+  width: 86.88px;
+  height: 22.59px;
+  left: 72px;
+  top: 407px;
+  font-size: 15px;
+  font-style: bold;
+  
+  }
+  .huc{
+  position: absolute;
+  width: 86.88px;
+  height: 22.59px;
+  left: 213.9px;
+  top: 407px;
+  font-size: 15px;
+  font-style: bold;
+  }
+  .hdord{
+  position: absolute;
+  width: 86.88px;
+  height: 22.59px;
+  left: 354.63px;
+  top: 407px;
+  font-size: 15px;
+  font-style: bold;
+  }
+  }
+  @media (max-width:375px){
+    .sekilbir{
+      position: absolute;
+  width: 170.55px;
+  height: 160.29px;
+  left: 101px;
+  top: 338px;
+    }
+    .sekiliki{
+      width: 0;
+    }
+    h1{
+  position: absolute;
+  width: 170.08px;
+  height: 43.34px;
+  left: 36px;
+  top: 56px;
+  font-style: bold;
+  font-size: 26px;
+    }
+  .esas{
+    position: absolute;
+  width: 308.47px;
+  height: 174.27px;
+  left: 36px;
+  top: 107.72px;
+  font-size: 12px;
+  }
+  .iki{
+  position: absolute;
+  width: 86px;
+  height: 18px;
+  left: 35px;
+  top: 563px;
+  }
+  .uc{
+  position: absolute;
+  width: 86.89px;
+  height: 18.5px;
+  left: 154.33px;
+  top: 562.46px;
+  }
+  .dord{
+  position: absolute;
+  width: 76px;
+  height: 18px;
+  left: 35px;
+  top: 634px;
+  }
+  .hiki{
+  position: absolute;
+  width: 69.9px;
+  height: 18.17px;
+  left: 35px;
+  top: 544px;
+  }
+  .huc{
+  position: absolute;
+  width: 69.9px;
+  height: 18.17px;
+  left: 154.16px;
+  top: 544px;
+  
+  }
+  .hdord{
+  position: absolute;
+  width: 69.9px;
+  height: 18.17px;
+  left: 35px;
+  top: 615px;
+  }
+  
+  }
+  
